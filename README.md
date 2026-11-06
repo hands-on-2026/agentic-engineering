@@ -1,4 +1,4 @@
-# Vibe Coding 시대의 AI・SW 역량을 위한 길잡이 모음
+# Vibe Coding 시대의 AI・SW 역량을 위한 길잡이
 
 > 빠르게 발전하는 AI와 Vibe Coding Agent가 범람하는 시대에 컴퓨터 전공자가 나아가야할 길에 대해 생각해 봅니다. 
 
